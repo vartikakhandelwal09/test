@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vartika.khandelwal\\Documents\\Visual Studio 2017\\Projects\\Test\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\vartika.khandelwal\\test\\Test\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\vartika.khandelwal\\Documents\\Visual Studio 2017\\Projects\\Test\\Test\\Test.csproj",
+      "projectPath": "C:\\Users\\vartika.khandelwal\\test\\Test\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\vartika.khandelwal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vartika.khandelwal\\Documents\\Visual Studio 2017\\Projects\\Test\\Test\\obj\\",
+      "outputPath": "C:\\Users\\vartika.khandelwal\\test\\Test\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
